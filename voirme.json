@@ -40,11 +40,11 @@
 	"popAppName": "Free Fire",
 	"popAppImage": "https://raw.githubusercontent.com/tahaprogrammer/Test/main/logo_free_diamond.png",
 	"popAppPackage": "com.dts.freefireth",
-	"popAppIsActive": true,
+	"popAppIsActive": false,
 
 	"DetailImageUrl": "https://raw.githubusercontent.com/tahaprogrammer/Test/main/nativeTest.png",
 	"DetailImageLink": "https://www.youtube.com/",
-	"DetailImageisActivated": true,
+	"DetailImageisActivated": false,
 
 	"NativeMenuImageUrl": "https://raw.githubusercontent.com/tahaprogrammer/Test/main/nativeTest.png",
 	"NativeMenuImageLink": "https://www.facebook.com/",
@@ -64,6 +64,6 @@
 	"BANNER_PLACEMENT": "DefaultBanner",
 	"INTERSTITIAL_PLACEMENT": "DefaultInterstitial",
 
-	"SwitchAds": 2
+	"SwitchAds": 3
 
 }
