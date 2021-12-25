@@ -5,28 +5,40 @@
 
 		{
 			"isNative": false,
-			"title": "1 - Before You StartMake",
-			"description": "",
+			"title": "1 - What Is Jam Music?",
+			"description": "These were a few of the most loved apps that users use to jam online. They have proven to be a great source for aspiring musicians and also those people who like to create music for fun. Many have been able to connect with several artists and learn new things too. We hope you enjoy these apps and create your best pieces with them.",
 		        "imageUrl":"https://raw.githubusercontent.com/donaphex/pictures/main/yehjm.png"
 		},
 
 		{
 			"isNative": false,
-			"title": "2 - Before You StartMake",
-			"description": "",
+			"title": "2 - For the music enthusiasts",
+			"description": "For the music enthusiasts out there, this is one of the best online jamming apps. You can easily play live in real-time with several other band members. If you are only using its hardware, then it wont cost you anything. However, you might have to pay for the add-ons. Also, it has a JamBlaster feature which allows a person to use the phone as an audio interface. Then, you can easily use this app with ultra-low latency and broadcast.",
 			"imageUrl":"https://raw.githubusercontent.com/donaphex/pictures/main/yehjm.png"
 
 		},
 		{
 			"isNative": false,
-			"title": "3 - Before You StartMake",
-			"description": "",
+			"title": "3 - Form A Band",
+			"description": "If you can't find a place to jam together with your band members, you can do it over the internet with the help of this app. Not only can you practice with people you know but here you can also connect with other musicians from across the globe. The service is free of cost, for now, so you should give it a try and make the most of it.",
 			"imageUrl":"https://raw.githubusercontent.com/donaphex/pictures/main/yehjm.png"
 		},
 		{
 			"isNative": false,
-			"title": "4 - Before You StartMake",
-			"description": "",
+			"title": "4 - App Features",
+			"description": "If you loved ninjam, you will love this one too. The users/musicians need to have client software to use this one effectively. Then, all of them connect to a common server and jam together online. They can also host their servers if they wish to maintain the privacy of their band. This app also allows the users to label their instruments and adjust their levels so that there is no interruption during the jam.",
+			"imageUrl":"https://raw.githubusercontent.com/donaphex/pictures/main/yehjm.png"
+		},
+		{
+			"isNative": false,
+			"title": "5 - Jam Anytime",
+			"description": "Just like the name suggests, this app allows you to jam whenever you want. All you need to do is download it and create your bio. Then, you can add some information about yourself and get started. While this one isn't for live jamming, it is a collaboration tool. People all over the world can easily search for you and collaborate for creating music.",
+			"imageUrl":"https://raw.githubusercontent.com/donaphex/pictures/main/yehjm.png"
+		},
+		{
+			"isNative": false,
+			"title": "6 - Jam Music conclusion",
+			"description": "Just like jam whenever this app is suitable for collaboration over the internet and not live jamming sessions. It is available both as a mobile app and system application, you can choose one at your convenience. It boasts of a huge library of instruments and performance FX that can be easily played on your system without having the equipment. You can also sync your account to other devices so that there are no interruptions.",
 			"imageUrl":"https://raw.githubusercontent.com/donaphex/pictures/main/yehjm.png"
 		}
 
