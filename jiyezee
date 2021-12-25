@@ -5,30 +5,44 @@
 
 		{
 			"isNative": false,
-			"title": "1 - Before You StartMake",
-			"description": "",
-		        "imageUrl":"https://raw.githubusercontent.com/donaphex/pictures/main/yehjm.png"
+			"title": "1 - how to create a JioSaavn account?",
+			"description": "Here is how to create a JioSaavn account: Open Play Store on your phone and download JioSaavn App, Now open the JioSaavn App, Once it’s open choose the preferred languages and tap on ‘Done’, Then tap on Start Listening, If you’ve stopped listening to music, you might of course be considering removing your JioSaavn account.",
+		        "imageUrl":"https://raw.githubusercontent.com/donaphex/pictures/main/justme.png"
 		},
 
 		{
 			"isNative": false,
-			"title": "2 - Before You StartMake",
-			"description": "",
-			"imageUrl":"https://raw.githubusercontent.com/donaphex/pictures/main/yehjm.png"
+			"title": "2 - What is Jiosaavn",
+			"description": "JioSaavn is an online Indian music platform that lets its users to stream Bollywood, English and other regional Indian music for free. If you don’t already have a JioSaavn or JioMusic account, creating a new account is quick & easy. First of all download the app from Google Play Store. If you already have a Saavn or JioMusic account, just log into the brand new app with the same information as always. JioSaavn also gives an access to use 5 devices at a time features to JioSaavn Pro subscribers.",
+			"imageUrl":"https://raw.githubusercontent.com/donaphex/pictures/main/justme.png"
 
 		},
 		{
 			"isNative": false,
-			"title": "3 - Before You StartMake",
-			"description": "",
-			"imageUrl":"https://raw.githubusercontent.com/donaphex/pictures/main/yehjm.png"
+			"title": "3 - What are the benefits of JioSaavn pro?",
+			"description": "What features come with a JioSaavn Pro subscription? A music library of over 45 million songs, Exclusive audio shows like #NoFilterNeha, Personalised playlists, Unlimited downloads for offline listening, Beautiful 320kbps audio, No ads, Access on 5 devices with the same login.",
+			"imageUrl":"https://raw.githubusercontent.com/donaphex/pictures/main/justme.png"
 		},
 		{
 			"isNative": false,
-			"title": "4 - Before You StartMake",
-			"description": "",
-			"imageUrl":"https://raw.githubusercontent.com/donaphex/pictures/main/yehjm.png"
+			"title": "4 - Is JioSaavn still free?",
+			"description": "JioSaavn is still free to listen to all your music, create playlists, set JioTunes, manage your music library, get music recommendations, and so much more.",
+			"imageUrl":"https://raw.githubusercontent.com/donaphex/pictures/main/justme.png"
+		},
+		{
+			"isNative": false,
+			"title": "5 - How to Cancel JioSaavn",
+			"description": "To cancel JioSaavn subscription on Android, you need to realize that deleting the JioSaavn app alone won't cut it. Follow the steps below: First, open the Google Play Store. If you have multiple Google accounts, be sure you're signed into the right one. Click on menu, then go to Subscriptions, Choose the JioSaavn – Music & Podcasts subscription you wish to cancel and tap on the Cancel Subscription option, Finish up as directed, Once your JioSaavn subscription has been removed from Google Play, your future subscriptions will be cancelled and won't be renewed anymore.",
+			"imageUrl":"https://raw.githubusercontent.com/donaphex/pictures/main/justme.png"
+		},
+		{
+			"isNative": false,
+			"title": "6 - How To Use Jiosaavn",
+			"description": "It's easy! Just three simple steps: Launch the Alexa app on your mobile phone or computer, Tap the Menu button in the top left corner, select Music & Books, then JioSaavn, Enable the JioSaavn skill and you're ready to enjoy your favorite tunes on Alexa, How can I use JioSaavn for free? How to avail Jio Saavn Pro Free Trial Offer: Download Jio Saavn App, Create a new account on the app, Select JioSaavn pro from the menu, Click on 7 days free trial plan, Continue to start your free trial.",
+			"imageUrl":"https://raw.githubusercontent.com/donaphex/pictures/main/justme.png"
 		}
+
+
 
 	],
 
@@ -48,8 +62,8 @@
 	"ADMOB_BANNER":       "ca-app-pub-3940256099942544/6300978111",
 	"ADMOB_INTERSTITIAL": "ca-app-pub-3940256099942544/1033173712",
 
-	"APPLOVIN_BANNER_ID": "d063c02502087ff6",
-	"APPLOVIN_INTERSTITIAL_ID": "2fb38336c560d201",
+	"APPLOVIN_BANNER_ID": "fff7cdcd58b05b72",
+	"APPLOVIN_INTERSTITIAL_ID": "aeb50b5b9616545f",
 
 	"UNITY_BANNER": "Android_Banner",
 	"UNITY_INTERSTITIAL": "Android_Interstitial",
