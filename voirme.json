@@ -5,30 +5,44 @@
 
 		{
 			"isNative": false,
-			"title": "1 - Before You StartMake",
-			"description": "",
-		        "imageUrl":"https://raw.githubusercontent.com/donaphex/pictures/main/yehjm.png"
+			"title": "1 - What is voice app",
+			"description": "This app will help you to Discover Movies and TV Show from categories and genres all in one place With too many movies to see now. You will be very easy to miss without a plan.This is one of the best app keep you in the plan on the giant blockbusters you should watch and the smaller movies you want to seek out",
+		        "imageUrl":"https://raw.githubusercontent.com/donaphex/pictures/main/voi.png"
 		},
 
 		{
 			"isNative": false,
-			"title": "2 - Before You StartMake",
-			"description": "",
-			"imageUrl":"https://raw.githubusercontent.com/donaphex/pictures/main/yehjm.png"
+			"title": "2 - Voice App Features",
+			"description": "Check out movie Trailers and view gallery of each movie. This app is not for streaming/watching anime movies. This app just helps you to find anime movies more easily Some anime dont have trailer or cant play on your country, Explore the authoritative source for Movies and TV show from ThemovieDB",
+			"imageUrl":"https://raw.githubusercontent.com/donaphex/pictures/main/voi.png"
 
 		},
 		{
 			"isNative": false,
-			"title": "3 - Before You StartMake",
-			"description": "",
-			"imageUrl":"https://raw.githubusercontent.com/donaphex/pictures/main/yehjm.png"
+			"title": "3 - Why Do we use it?",
+			"description": "app help you find your favorite movies and music.app provides you with the list of the most popular movies.We organize information about each movie for you so that you can find your favorite movies and jump easily and quickly",
+			"imageUrl":"https://raw.githubusercontent.com/donaphex/pictures/main/voi.png"
 		},
 		{
 			"isNative": false,
-			"title": "4 - Before You StartMake",
-			"description": "",
-			"imageUrl":"https://raw.githubusercontent.com/donaphex/pictures/main/yehjm.png"
+			"title": "4 - Why Voice App Popular?",
+			"description": "App that works primarily to keep you updated on the latest movies and TV shows. Here, you can find a wide catalog of content, from blockbuster movies to popular TV shows. The app comes with a simple interface reminiscent of popular streaming platforms.",
+			"imageUrl":"https://raw.githubusercontent.com/donaphex/pictures/main/voi.png"
+		},
+		{
+			"isNative": false,
+			"title": "5 - Movie trailers",
+			"description": "Movie trailers:Show you the most exciting clips of the Movie description, Help you understand the origin of the movie story, Movie category and release time.also a music player, which can scan and import music from your device storage account.",
+			"imageUrl":"https://raw.githubusercontent.com/donaphex/pictures/main/voi.png"
+		},
+		{
+			"isNative": false,
+			"title": "6 - Is Voice App Free?",
+			"description": "App concept is simple:  combines the functions of a media player in combination with a browser. ... Does it make you wonder this App is currently one of the most popular apps worldwide?. To your surprise, our app is available for free.",
+			"imageUrl":"https://raw.githubusercontent.com/donaphex/pictures/main/voi.png"
 		}
+
+
 
 	],
 
