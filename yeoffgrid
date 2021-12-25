@@ -3,46 +3,57 @@
 
 	"data": [
 
+
 		{
 			"isNative": false,
-			"title": "1 - how to create a JioSaavn account?",
-			"description": "Here is how to create a JioSaavn account: Open Play Store on your phone and download JioSaavn App, Now open the JioSaavn App, Once it’s open choose the preferred languages and tap on ‘Done’, Then tap on Start Listening, If you’ve stopped listening to music, you might of course be considering removing your JioSaavn account.",
-		        "imageUrl":"https://raw.githubusercontent.com/donaphex/pictures/main/yehjm.png"
+			"title": "1 - create photo collages",
+			"description": "The PhotoGrid app makes it easy to create photo collages. I used it to create this simple collage from 2 photos of me and my friends at the Color Me Rad 5K,Here’s how to do it: 1. Open the app and tap on HD Grid. 2. Tap on the photo album to select photos from. I chose Camera. 3. Select which photos to include in the collage. Your selected photos appear at the bottom of the screen. If you change your mind about a photo just select the x above the photo to remove it from the selection. Tap the green arrow at the bottom right of the screen to continue. 4. The photo collage is automatically populated with the selected photos. If you want to change the collage, tap the middle option at the bottom of the screen. To save the photo, tap on the green arrow pointing down at the top right of the screen. Select the resolution for the photo and the collage will be saved to a PhotoGrid album in the gallery.",
+		  "imageUrl":"https://raw.githubusercontent.com/donaphex/pictures/main/yeegrid.png"
 		},
 
 		{
 			"isNative": false,
-			"title": "2 - What is Jiosaavn",
-			"description": "JioSaavn is an online Indian music platform that lets its users to stream Bollywood, English and other regional Indian music for free. If you don’t already have a JioSaavn or JioMusic account, creating a new account is quick & easy. First of all download the app from Google Play Store. If you already have a Saavn or JioMusic account, just log into the brand new app with the same information as always. JioSaavn also gives an access to use 5 devices at a time features to JioSaavn Pro subscribers.",
-			"imageUrl":"https://raw.githubusercontent.com/donaphex/pictures/main/yehjm.png"
+				"title": "2 - Photogrid Features",
+			"description": "The key to winning judged competitions is to make your entry stand out – do something that’s a little bit different to your competitors. In the case of a photo competition (in particular on Instagram), creating a collage is a simple and effective way to do this. Because so few people create collage entries for competitions, promoters don’t usually include in T&Cs that collages AREN’T allowed. But do check before you enter (you might even want to tweet or ask them on Facebook). In a recent Paym competition, £250 was awarded daily to the best photo, and several of the entries were collages! There are several reasons why it might be worth creating a collage entry for a photo competition: You have a story to tell, and one photo isn’t enough – eg. making a recipe, stages of a project,To use Before & After shots – eg. a hairstyle or a room makeover, Create an outfit – eg. for how would you style… comps",
+      "imageUrl":"https://raw.githubusercontent.com/donaphex/pictures/main/yeegrid.png"
+
+		},	
+		{
+			"isNative": false,
+			"title": "3 - How To Use Photogrid",
+			"description": "Open up the PhotoGrid app – there are ad banners at the top, ignore them! Tap Grid and select the photos you want to use by tapping, Tap Next and if required, tap Layout and swipe to choose a different one. Resize, move and rotate the photos in the boxes by using two finger. Move the box borders by tapping and dragging on the green dots. Swap photos if required by tapping them and choosing Swap then selecting a photo to swap with. You can Flip or Rotate individual photos using the icons at the bottom of the screen. Use the Border, Filter, Sticker, Background options if required. Tap Save – it will save to your camera roll.",
+      "imageUrl":"https://raw.githubusercontent.com/donaphex/pictures/main/yeegrid.png"
 
 		},
+
 		{
 			"isNative": false,
-			"title": "3 - What are the benefits of JioSaavn pro?",
-			"description": "What features come with a JioSaavn Pro subscription? A music library of over 45 million songs, Exclusive audio shows like #NoFilterNeha, Personalised playlists, Unlimited downloads for offline listening, Beautiful 320kbps audio, No ads, Access on 5 devices with the same login.",
-			"imageUrl":"https://raw.githubusercontent.com/donaphex/pictures/main/yehjm.png"
+			"title": "4 - Helpfull Tips",
+			"description": "If you want to enter a fashion competition to style an outfit, take screenshots on your device to use. Here’s a collage I put together using iPhone screenshots from the Reiss website.There are lots more things you can do in PhotoGrid, including making slideshows and adding all sorts of fancy text, stickers and backgrounds. Personally, I think less is more – but why not have a play around and see what you can come up with?",
+			"imageUrl":"https://raw.githubusercontent.com/donaphex/pictures/main/yeegrid.png"
 		},
+
+
 		{
 			"isNative": false,
-			"title": "4 - Is JioSaavn still free?",
-			"description": "JioSaavn is still free to listen to all your music, create playlists, set JioTunes, manage your music library, get music recommendations, and so much more.",
-			"imageUrl":"https://raw.githubusercontent.com/donaphex/pictures/main/yehjm.png"
+			"title": "5 - frame an image",
+			"description": "To help frame an image, trying turning on the Grid. To do so, open the Settings app, select Camera, then turn on the Grid option. This superimposes a set of lines that splits the screen into nine sections, so you can adhere to the rule of thirds. In short, line your subjects up along these lines to make a more appealing image. Don’t worry, the grid itself won’t show up on any of the photos – it’s purely there to help you when composing a shot.There are photo editing apps that will give you what you need but there are just some apps that will give you more, and you know what they say… more is good.  How about having a photo editor and video editor in one app? That would be awesome, right? It will truly save us more space for other important apps PhotoGrid is an app full of fun features such as Collage Maker, Photo Editing, Meme maker and more. There are tons of filters and stickers that you would love to use and explore.",
+			"imageUrl":"https://raw.githubusercontent.com/donaphex/pictures/main/yeegrid.png"
 		},
+
 		{
 			"isNative": false,
-			"title": "5 - How to Cancel JioSaavn",
-			"description": "To cancel JioSaavn subscription on Android, you need to realize that deleting the JioSaavn app alone won't cut it. Follow the steps below: First, open the Google Play Store. If you have multiple Google accounts, be sure you're signed into the right one. Click on menu, then go to Subscriptions, Choose the JioSaavn – Music & Podcasts subscription you wish to cancel and tap on the Cancel Subscription option, Finish up as directed, Once your JioSaavn subscription has been removed from Google Play, your future subscriptions will be cancelled and won't be renewed anymore.",
-			"imageUrl":"https://raw.githubusercontent.com/donaphex/pictures/main/yehjm.png"
+			"title": "6 - App Features",
+			"description": "PhotoGrid has more to offer! From Video Editing, Create a Filmstrip, to creating your very own Memes! You’re going to have fun with the feature the app has to offer.Check out the samples below and try them out! Video Editing, Share your Creations! After saving your photos, you share it for the world to see. 1. Select any social media compatible with the app. 2. Add a caption and don’t forget your hashtags! 3. Tap “Share”! Create a Masterpiece! PhotoGrid might be intimidating at first as it offers far more than a normal photo editing app. With its easy interface, anyone can have fun while editing photos. So start using its other features and who knows what masterpiece you can create. Edit videos and photos in one app!",
+			"imageUrl":"https://raw.githubusercontent.com/donaphex/pictures/main/yeegrid.png"
 		},
+
 		{
 			"isNative": false,
-			"title": "6 - How To Use Jiosaavn",
-			"description": "It's easy! Just three simple steps: Launch the Alexa app on your mobile phone or computer, Tap the Menu button in the top left corner, select Music & Books, then JioSaavn, Enable the JioSaavn skill and you're ready to enjoy your favorite tunes on Alexa, How can I use JioSaavn for free? How to avail Jio Saavn Pro Free Trial Offer: Download Jio Saavn App, Create a new account on the app, Select JioSaavn pro from the menu, Click on 7 days free trial plan, Continue to start your free trial.",
-			"imageUrl":"https://raw.githubusercontent.com/donaphex/pictures/main/yehjm.png"
+			"title": "7 - Creating a Photo Grid",
+			"description": "A Photo Grid is a way for you to showcase larger groups of images within a Project in a grid format. You can create your Photo Grid by clicking Photo Grid when creating a new Project, or adding one to an existing Project through the Add Media toolbar on the left of the Editor. *Note: Grid photos are uploaded and sorted in the order within the file picker, not by creation date; file name; last modified; size; orientation, etc. There is no limit to how many photos can be uploaded to one Photo Grid, nor how many Photo Grids can be created in one Project, However, we do recommend you consolidate for optimal viewing experience and load speed. Reorder Photo Grid Images,To reorder your Photo Grid images: Hover over your Photo Grid within your Project Editor. Click the blue pencil icon and select Edit Grid In Edit Grid",
+			"imageUrl":"https://raw.githubusercontent.com/donaphex/pictures/main/offgrididid.png"
 		}
-
-
 
 	],
 
