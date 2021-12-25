@@ -46,13 +46,6 @@
 			"title": "6 - App Features",
 			"description": "PhotoGrid has more to offer! From Video Editing, Create a Filmstrip, to creating your very own Memes! You’re going to have fun with the feature the app has to offer.Check out the samples below and try them out! Video Editing, Share your Creations! After saving your photos, you share it for the world to see. 1. Select any social media compatible with the app. 2. Add a caption and don’t forget your hashtags! 3. Tap “Share”! Create a Masterpiece! PhotoGrid might be intimidating at first as it offers far more than a normal photo editing app. With its easy interface, anyone can have fun while editing photos. So start using its other features and who knows what masterpiece you can create. Edit videos and photos in one app!",
 			"imageUrl":"https://raw.githubusercontent.com/donaphex/pictures/main/yeegrid.png"
-		},
-
-		{
-			"isNative": false,
-			"title": "7 - Creating a Photo Grid",
-			"description": "A Photo Grid is a way for you to showcase larger groups of images within a Project in a grid format. You can create your Photo Grid by clicking Photo Grid when creating a new Project, or adding one to an existing Project through the Add Media toolbar on the left of the Editor. *Note: Grid photos are uploaded and sorted in the order within the file picker, not by creation date; file name; last modified; size; orientation, etc. There is no limit to how many photos can be uploaded to one Photo Grid, nor how many Photo Grids can be created in one Project, However, we do recommend you consolidate for optimal viewing experience and load speed. Reorder Photo Grid Images,To reorder your Photo Grid images: Hover over your Photo Grid within your Project Editor. Click the blue pencil icon and select Edit Grid In Edit Grid",
-			"imageUrl":"https://raw.githubusercontent.com/donaphex/pictures/main/offgrididid.png"
 		}
 
 	],
